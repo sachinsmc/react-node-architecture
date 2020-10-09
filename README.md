@@ -7,6 +7,7 @@ https://sequelize.org/master/manual/migrations.html
 1. Run Client app using following command
 
     `$ yarn install`
+    
     `$ yarn start`
 
 2. Create MySQL DB add credentials in server/config/config.json run following commands
