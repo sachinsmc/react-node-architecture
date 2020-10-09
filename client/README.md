@@ -1,4 +1,5 @@
 # Client App
 
-$ yarn install
-$ yarn start
+  `$ yarn install`
+  
+  `$ yarn start`
